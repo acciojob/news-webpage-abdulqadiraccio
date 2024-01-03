@@ -49,6 +49,7 @@ h3{
 	grid-column:6/8;
 	grid-row:2/8;
 	background-color:white;
+	text-align:center;
 }
 img{ display:block;
 	margin:10px auto 0px auto;
